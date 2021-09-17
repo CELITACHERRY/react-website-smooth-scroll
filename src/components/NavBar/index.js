@@ -17,7 +17,7 @@ function Navbar({toggle}) {
     <>
       <Nav>
         <NavbarContainer>
-          <NavLogo to="/">Celita</NavLogo>
+          <NavLogo to="/">She Codes</NavLogo>
           <MobileIcon onClick={toggle}>
             <FaBars />
           </MobileIcon>
